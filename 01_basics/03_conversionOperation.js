@@ -1,4 +1,4 @@
-let score = "98abc"
+/*let score = "98abc"
 
 console.log(typeof score);
 console.log(typeof(score));
@@ -29,3 +29,21 @@ let num = 98
 let stringnum = String( num)
 console.log(stringnum);
 console.log(typeof stringnum);
+
+
+*/
+
+// OPERATIONSSSSSSSSSSSSSSSSSSSSSSSS
+
+
+let value =6
+let neg = -value
+//console.log(neg);
+
+
+
+let str1 = "helloo"
+let str2 = " akansha"
+
+let str3 =str1 + str2
+console.log(str3);
