@@ -12,6 +12,7 @@
 
 
  const heros=["shaktiman" , "doga"];
+
  let myObj={
     name:"akansha",
     age: 18,
@@ -21,5 +22,14 @@
  const myFunction = function(){
     console.log("hello world");
  }
+ 
+// ***************************************************************
 
- console.log(typeof );
+// stack {primitive}  heap {non-primitive}
+
+let myname = "akansha"
+let anothername= myname
+anothername= "rawat"
+
+console.log(myname);
+console.log(anothername);
